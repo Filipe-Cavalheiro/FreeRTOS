@@ -1,0 +1,20 @@
+﻿  interface.c
+C:\STR\source\interface.c(300,1): warning C4142: 'closeChannels': benign redefinition of type
+c:\str\include\interface.h(10,6): message : see declaration of 'closeChannels'
+  mongoose.c
+  sim_server.c
+  Generating Code...
+  demo_rtos.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+freeRTOS.lib(croutine.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(croutine.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(heap_5.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(heap_5.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(timers.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(timers.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(interrupts.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(interrupts.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(main.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(main.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(list.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(list.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(port.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(port.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(queue.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(queue.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(tasks.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(tasks.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(main_blinky.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(main_blinky.obj)' or at ''; linking object as if no debug info
+freeRTOS.lib(Run-time-stats-utils.obj) : warning LNK4099: PDB '' was not found with 'freeRTOS.lib(Run-time-stats-utils.obj)' or at ''; linking object as if no debug info
+  demo_rtos.vcxproj -> C:\STR\demo_rtos\Debug\demo_rtos.exe
